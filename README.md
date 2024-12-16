@@ -1,5 +1,5 @@
 
-Chatbot de Conversa - 
+Chatbot de Conversa:
 
 Descrição do Projeto
 
@@ -33,14 +33,14 @@ Funcionalidades:
 3. Interface simples e intuitiva para interação.
 
 
-Estrutura do Repositório
+Estrutura do Repositório:
 
 app.py: Arquivo principal com a lógica do chatbot.
 index.html: Arquivo HTML que compõe a interface inicial.
 README.md: Documentação do projeto.
 
 
-Como Executar
+Como Executar:
 
 1. Clone este repositório:
 git clone <github.com/Anapaivaz/ChatBot>
