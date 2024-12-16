@@ -43,7 +43,7 @@ README.md: Documentação do projeto.
 Como Executar
 
 1. Clone este repositório:
-git clone <github.com/Anapaivaz/ChatBot/edit/main/README.md>
+git clone <github.com/Anapaivaz/ChatBot>
 2. Certifique-se de ter Python instalado na máquina.
 3. Inicie o chatbot executando o arquivo app.py:
 4. Abra o arquivo index.html em um navegador para acessar a interface.
