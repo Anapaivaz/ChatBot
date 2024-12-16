@@ -23,6 +23,7 @@ O chatbot é capaz de identificar e responder aos seguintes sentimentos:
 Linguagens Utilizadas: 
 
 Python: Para lógica do chatbot e processamento das respostas do usuário.
+
 HTML: Para criar o arquivo de index e estruturar a interface de interação do chatbot.
 
 
@@ -36,7 +37,9 @@ Funcionalidades:
 Estrutura do Repositório:
 
 app.py: Arquivo principal com a lógica do chatbot.
+
 index.html: Arquivo HTML que compõe a interface inicial.
+
 README.md: Documentação do projeto.
 
 
